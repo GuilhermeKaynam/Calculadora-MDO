@@ -8,7 +8,7 @@ import { Calculator, Box } from 'lucide-react';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <div className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100">
         <nav className="bg-blue-700 text-white p-4 sticky top-0 z-50 shadow-md">
           <div className="max-w-4xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
