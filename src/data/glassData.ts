@@ -9,13 +9,13 @@ export interface GlassDataType {
 
 export const glassData: GlassDataType = {
   "2 mm Incolor": { "retirar": 105, "instalado": 150 },
-  "3 mm Incolor": { "retirar": 117, "instalado": 275 },
+  "3 mm Incolor": { "retirar": 117, "instalado": 257 },
   "4 mm Incolor": { "retirar": 140, "instalado": 335 },
   "5 mm Incolor": { "retirar": 194, "instalado": 365 },
   "6 mm Incolor": { "retirar": 237, "instalado": 408 },
-  "8 mm Incolor": { "retirar": 254, "instalado": 490 },
+  "8 mm Incolor": { "retirar": 254, "instalado": 468 },
   
-  "3 mm Fumê claro nacional": { "retirar": 225, "instalado": 390 },
+  "3 mm Fumê claro nacional": { "retirar": 200, "instalado": 335 },
   "4 mm Fumê claro ou verde": { "retirar": 235, "instalado": 390 },
   "6 mm Fumê ou verde": { "retirar": 300, "instalado": 490 },
   "8 mm Fumê ou verde": { "retirar": 408, "instalado": 525 },
